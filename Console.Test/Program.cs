@@ -17,6 +17,7 @@ namespace Console.Test
             System.Console.WriteLine("再测试一下暂存");
 
             System.Console.WriteLine("再测试一下暂存后提交");
+            System.Console.WriteLine("看看提交前两次暂存");
 
             
         }
