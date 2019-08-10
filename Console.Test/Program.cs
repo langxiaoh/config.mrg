@@ -12,6 +12,7 @@ namespace Console.Test
         {
             System.Console.WriteLine("Hello World!");
             System.Console.WriteLine("这是暂存的修改");
+            System.Console.WriteLine("这是暂存后的修改");
             
         }
     }
