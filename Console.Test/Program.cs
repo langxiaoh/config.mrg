@@ -23,7 +23,9 @@ namespace Console.Test
             System.Console.WriteLine("撤销暂存");
 
             System.Console.WriteLine("master 上的修改");
-            
+
+            System.Console.WriteLine("这是master上的修改");
+            System.Console.WriteLine("看看冲突怎么解决");
         }
     }
 }
