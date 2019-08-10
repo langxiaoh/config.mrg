@@ -15,7 +15,9 @@ namespace Console.Test
             System.Console.WriteLine("这是暂存后的修改");
 
             System.Console.WriteLine("再测试一下暂存");
-            
+
+            System.Console.WriteLine("再测试一下暂存后提交");
+
             
         }
     }
