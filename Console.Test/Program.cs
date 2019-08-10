@@ -11,6 +11,8 @@ namespace Console.Test
         static void Main(string[] args)
         {
             System.Console.WriteLine("Hello World!");
+            System.Console.WriteLine("这是暂存的修改");
+            
         }
     }
 }
