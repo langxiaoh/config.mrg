@@ -28,6 +28,10 @@ namespace Console.Test
             System.Console.WriteLine("分支1上的修改");
             System.Console.WriteLine("看看能不能不提交切换分支");
             
+            System.Console.WriteLine("master 上的修改");
+
+            System.Console.WriteLine("这是master上的修改");
+            System.Console.WriteLine("看看冲突怎么解决");
         }
     }
 }
