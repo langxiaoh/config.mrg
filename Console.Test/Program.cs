@@ -26,6 +26,7 @@ namespace Console.Test
             System.Console.WriteLine("切换分支");
 
             System.Console.WriteLine("分支1上的修改");
+            System.Console.WriteLine("看看能不能不提交切换分支");
             
         }
     }
