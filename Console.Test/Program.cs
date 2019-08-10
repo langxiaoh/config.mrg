@@ -21,6 +21,8 @@ namespace Console.Test
 
             System.Console.WriteLine("测试依稀撤销");
             System.Console.WriteLine("撤销暂存");
+
+            System.Console.WriteLine("master 上的修改");
             
         }
     }
