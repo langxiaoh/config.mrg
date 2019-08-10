@@ -19,6 +19,8 @@ namespace Console.Test
             System.Console.WriteLine("再测试一下暂存后提交");
             System.Console.WriteLine("看看提交前两次暂存");
 
+            System.Console.WriteLine("测试依稀撤销");
+            System.Console.WriteLine("撤销暂存");
             
         }
     }
