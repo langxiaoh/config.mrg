@@ -32,6 +32,8 @@ namespace Console.Test
 
             System.Console.WriteLine("这是master上的修改");
             System.Console.WriteLine("看看冲突怎么解决");
+
+            System.Console.WriteLine("branch1分支的修改");
         }
     }
 }
